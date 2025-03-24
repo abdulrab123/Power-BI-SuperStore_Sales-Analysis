@@ -1,7 +1,7 @@
 # DASHBOARD![DASHBOARD](https://github.com/user-attachments/assets/d8fd332d-aad4-4cc5-b3ce-b6db23bf7978)
 
 # OBJECTIVE
-To Contribute to the sucess of a bussiness by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+To Contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 # fORECAST 
 ![Forecasting](https://github.com/user-attachments/assets/05d26a75-1581-4660-994a-dd9289ae49e8)
 
